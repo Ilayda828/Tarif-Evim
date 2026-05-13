@@ -1,7 +1,5 @@
 # Tarif Evim
 
-Link : tarifevim.com.tr
-
 Tarif Evim, tarif paylaşımı ve yönetimi için geliştirilen full-stack bir uygulamadır.
 
 - Frontend: React
