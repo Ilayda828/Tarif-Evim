@@ -1,6 +1,6 @@
 # Tarif Evim
 
-# Link : tarifevim.com.tr
+Link : tarifevim.com.tr
 
 Tarif Evim, tarif paylaşımı ve yönetimi için geliştirilen full-stack bir uygulamadır.
 
